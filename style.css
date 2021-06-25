@@ -19,7 +19,7 @@ p,p *{
     font-weight: 500;
     font-size: 0.8rem;
 }
-@media screen and (min-width: 890px) {
+@media screen and (min-width: 700px) {
     *{
         background-color: #292b2c;
 
