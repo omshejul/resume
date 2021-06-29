@@ -4,7 +4,6 @@
     font-family: 'Ubuntu', sans-serif;
 }
 .print a{
-    text-decoration: none !important;
     color: hsl(218, 52%, 39%) !important;
 }
 
